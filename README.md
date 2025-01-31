@@ -2,17 +2,16 @@
 
 # Anass Elarbidi - Full Stack Developer
 
-👋 Hello, I'm Anass Elarbidi, a passionate Full Stack Developer based in Morocco I have a strong affinity for JavaScript and enjoy working with a variety of technologies, including Next.js, Node.js, React, Puppeteer, Playwright, and more. 
-
-🚀 I'm constantly exploring new ideas and pushing the boundaries of what's possible in web development. This GitHub repository serves as a showcase of my projects and contributions.
-
-Feel free to explore my GitHub repositories for  projects and code samples.
+👋 Hello, I'm Anass Elarbidi, a passionate QA automation Engineer based in Morocco I have a strong affinity for JavaScript/java and enjoy working with a variety of technologies, including , Puppeteer, Playwright, Selenuim. 
 
 ## Skills
 
 Here are some of the key skills and technologies I'm proficient in:
 
 - JavaScript
+- java
+- Selenuim
+- TestNG
 - Node.js
 - React
 - Next.js
@@ -20,7 +19,6 @@ Here are some of the key skills and technologies I'm proficient in:
 - Playwright
 - HTML/CSS
 - Git
-- SQL/NoSQL databases
 - RESTful APIs
 
 ## Contact
